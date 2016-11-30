@@ -1,0 +1,27 @@
+.left{
+    display: inline-block;
+    float: left;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.right{
+    display:inline-block;
+  float: right;
+  margin-top: 40px;
+  margin-right: 40px;
+}
+
+.margtable{
+    display: block;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 80px;
+
+}
+
+.error {
+    color: #ff0000;
+    font-style: italic;
+    font-weight: bold;
+}
